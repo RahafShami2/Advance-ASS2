@@ -28,10 +28,4 @@ public class Single{
              scpConnection1.send("hi");
             ftpConnection1.send("hi");	
         }
-
-
-		
-
-	}
-
 }
